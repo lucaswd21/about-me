@@ -25,15 +25,10 @@ Lucas Dias
 ### Tooling
 >
     * WebPack
-    * Docker-Compose
-    * CoreOS
         
 ##### Other
 >
-    * DevOps (Scalable, fault tolerant and high performance infrastructure. CoreOS, Docker Compose and Rkt)
-    * Evaluation, installation and maintenance of computers (Hardware)
-    * Virtualization (Hyper-V, QEMU, Virtual Box and VMWare)
-    * Graphic Design and Imaging (Adobe Photoshop)
+    * Graphic Design and Imaging (Adobe Photoshop and GIMP)
     
 ##### Languages
 >
